@@ -17,3 +17,8 @@ Todas las vistas se encuentran en la carpeta "views" del proyecto, éstas se encu
 EJECUCIÓN
 
 Para ejecutar éste proyecto se debn ir a la carpeta del mismo, abrir la consola en ese en esa ubicación y ejecupar el comando "bee run webApp" o "bee run Beego", ésto dependiedo de cómo tengan especificado el nombre del proyecto en el GOPATH.
+
+INTEGRANTES
+
+Daniel Alejandro Toro Tobar	20132020611
+Juan Pablo Ávila Días 	20132020599
