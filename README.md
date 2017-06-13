@@ -21,4 +21,5 @@ Para ejecutar éste proyecto se debn ir a la carpeta del mismo, abrir la consola 
 INTEGRANTES
 
 Daniel Alejandro Toro Tobar	20132020611
+
 Juan Pablo Ávila Días 	20132020599
